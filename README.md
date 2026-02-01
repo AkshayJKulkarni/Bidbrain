@@ -12,7 +12,7 @@ A high-performance real-time ad bidding system that combines machine learning wi
 - **High Performance**: Handles 1000+ simulated bid requests per second
 - **ML-Powered**: Uses trained models to predict CTR and optimize bid amounts
 - **Scalable Architecture**: Designed for async performance and horizontal scaling
-- **Real Value Creation**: Demonstrates Moloco's value "Create Real Value" by blending ML intelligence with real-time engineering excellence
+- **Real Value Creation**: Demonstrates the value "Create Real Value" by blending ML intelligence with real-time engineering excellence
 
 ## Setup
 
