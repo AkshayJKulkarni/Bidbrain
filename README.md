@@ -14,6 +14,14 @@ A high-performance real-time ad bidding system that combines machine learning wi
 - **Scalable Architecture**: Designed for async performance and horizontal scaling
 - **Real Value Creation**: Demonstrates the value "Create Real Value" by blending ML intelligence with real-time engineering excellence
 
+- ## Engineering Focus
+
+While this project applies machine learning for bid optimization, the primary
+engineering focus was on building a high-throughput asynchronous backend service.
+The project helped me understand how real-time systems handle concurrent requests,
+API design, and performance constraints under load.
+
+
 ## Setup
 
 ```bash
